@@ -1,7 +1,7 @@
 import sys
 # You will need to install the SciPy platform and the libraries to run this code
-# The next line is to add a path for the libraries to look for and you should change the path if you haven't downloaded the libraries with anaconda3
-sys.path.append("/anaconda3/lib/python3.7/site-packages")
+# The next line is to add a path for the libraries to look for and if you don't already have the libraries in sys.path you should append too.
+# sys.path.append("/anaconda3/lib/python3.7/site-packages")
 import scipy
 import numpy
 import matplotlib
